@@ -61,4 +61,4 @@ pytest
 
 ## 👤 Autor
 Aquiles Araujo
-Projeto desenvolvido para fins de estudo e portfólio em **Qualidade de Software (QA)**.
+
